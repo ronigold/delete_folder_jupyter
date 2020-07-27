@@ -9,11 +9,8 @@ setup(
   author = 'Roni Gold',                  
   author_email = 'ronigoldsmid@gmail.com', 
   url = 'https://github.com/ronigold',
-  download_url = 'https://github.com/ronigold/delete_folder_jupyter/archive/0.0.1.tar.gz',   
+  download_url = 'https://github.com/ronigold/delete_folder_jupyter/archive/0.0.2.tar.gz',   
   keywords = ['jupyter', 'jupyter-lab', 'delete non-empty folder'],  
-  install_requires=[            
-          'shutil',
-      ],
   classifiers=[
     'Development Status :: 3 - Alpha',
     'Intended Audience :: Developers', 
